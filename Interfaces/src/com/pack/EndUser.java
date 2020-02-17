@@ -7,6 +7,7 @@ public class EndUser {
 		
 		MsOffice w=new Word();
 		System.out.println("test");
+		System.out.println("Adding new line ");
 		
 		w.open();
 		w.close();
